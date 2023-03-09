@@ -38,3 +38,7 @@ for (let i = 0; i < listaDeTeclas.length ; i++){
     }
 }
 
+function testandoGitPush(){
+    console.log('modificação feita para testar o push no git')
+}
+
